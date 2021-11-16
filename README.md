@@ -23,3 +23,7 @@ watching movies and series...
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Qhupe&show_icons=true&theme=radical)
 
 
+ <img src="https://media3.giphy.com/media/98uBZTzlXMhkk/giphy.gif?cid=ecf05e474rmt9uqo3zcu7icsm0kwa0ty5brqhd6pnoola4i9&rid=giphy.gif&ct=g" width="auto">
+
+
+
