@@ -35,7 +35,7 @@ watching movies and series...
 
 
 
- <img src="https://media3.giphy.com/media/98uBZTzlXMhkk/https://cdn.dribbble.com/users/795597/screenshots/6081444/media/a6202c2c2e23fa89cf8f13e780e43976.gif" width="auto">
 
 
+ <img src="https://cdn.dribbble.com/users/795597/screenshots/6081444/media/a6202c2c2e23fa89cf8f13e780e43976.gif" width="auto">
 
