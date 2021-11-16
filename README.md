@@ -30,6 +30,8 @@ watching movies and series...
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Qhupe&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Qhupe&show_icons=true&theme=radical)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ahmet-esat-kopar-585841186/)
+&nbsp;
 
 
  <img src="https://media3.giphy.com/media/98uBZTzlXMhkk/giphy.gif?cid=ecf05e474rmt9uqo3zcu7icsm0kwa0ty5brqhd6pnoola4i9&rid=giphy.gif&ct=g" width="auto">
