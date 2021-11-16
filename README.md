@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Merhabalar ben Ahmet Esat Kopar, Fırat Üniversitesi Bilgisayar mühendisliği 4. sınıf öğrencisiyim, 
+13 haziran 1999 tarihinde kahramanmaraş ilinde doğdum, 
+kendimi 4 yıldır java, kotlin, python, HTML, CSS konularında geliştirmeye çalıştım, vaktimin çoğunu android konusunda java ve kotlin dilleri üzerinde geliştirdim şu anda ise Mobil Platformuna daha çok hakim olmak için Flutter konusunda kendimi geliştirmeye başladım, kendimi geliştirmek adına çalışmalara devam ediyor ve desteklerinizi bekliyorum
+
+
+Hello, I'm Ahmet Esat Kopar, I'm a 4th year Computer Engineering student at Fırat University.
+I was born on 13 June 1999 in the province of Kahramanmaraş,
+I have tried to improve myself in java, kotlin, python, HTML, CSS for 4 years, I have developed most of my time on java and kotlin languages on android, and now I started to improve myself on Flutter in order to have more knowledge of the Mobile Platform, I continue to work on improving myself and thank you for your support. I am waiting
+
 <!--
 **Qhupe/Qhupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
