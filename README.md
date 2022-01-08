@@ -14,7 +14,7 @@ I have tried to improve myself in java, kotlin, python, HTML, CSS for 4 years, I
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on --> Flutter, Mobile
+- 🔭 I’m currently working on --> Flutter, Mobile, Android Jatpack Compose
 - 🌱 I’m currently learning --> Flutter, HTML, CSS, JavaScript
 - 💬 Ask me about --> Kotlin,Flutter
 - 📫 How to reach me: -->hupesat@gmail.com
