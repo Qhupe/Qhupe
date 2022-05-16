@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-Merhabalar ben Ahmet Esat Kopar, Fırat Üniversitesi Bilgisayar mühendisliği 4. sınıf öğrencisiyim, 
-13 haziran 1999 tarihinde kahramanmaraş ilinde doğdum, 
-kendimi 4 yıldır java, kotlin, python, HTML, CSS konularında geliştirmeye çalıştım, vaktimin çoğunu android konusunda java ve kotlin dilleri üzerinde geliştirdim şu anda ise Mobil Platformuna daha çok hakim olmak için Flutter konusunda kendimi geliştirmeye başladım, kendimi geliştirmek adına çalışmalara devam ediyor ve desteklerinizi bekliyorum
+Merhabalar ben Ahmet Esat Kopar, Fırat Üniversitesi 4. sınıf bilgisayar mühendisliği öğrencisiyim, 13 Haziran 1999 Kahramanmaraş doğumluyum, 4 yıldır java, kotlin, python, HTML, CSS konularında kendimi geliştirmeye çalıştım, Zamanımın çoğunu Android'de Java ve Kotlin dillerinde geçirdim. Şu an Mobil Platforma daha iyi hakim olmak için Flutter, Backend alanında ise C# .Net Teknolojileri konusunda kendimi geliştirmeye devam ediyor, desteklerinizi ve iş fırsatlarınızı bekliyorum.
 
 
-Hello, I'm Ahmet Esat Kopar, I'm a 4th year Computer Engineering student at Fırat University.
-I was born on 13 June 1999 in the province of Kahramanmaraş,
-I have tried to improve myself in java, kotlin, python, HTML, CSS for 4 years, I have developed most of my time on java and kotlin languages on android, and now I started to improve myself on Flutter in order to have more knowledge of the Mobile Platform, I continue to work on improving myself and thank you for your support. I am waiting
+Hello, I am Ahmet Esat Kopar, I am a 4th year computer engineering student at Fırat University, I was born in Kahramanmaraş on 13 June 1999, I tried to improve myself in java, kotlin, python, HTML, CSS for 4 years, I spent most of my time on android on java and kotlin languages. At the moment, I continue to work on improving myself on Flutter in order to have a better command of the Mobile Platform, and on C# .Net Technologies in the Backend area, and I look forward to your support and business opportunities.
 
 <!--
 **Qhupe/Qhupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
