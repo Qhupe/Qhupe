@@ -10,8 +10,8 @@ Hello, I am Ahmet Esat Kopar, I am a 4th year computer engineering student at F�
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on --> Flutter, Mobile, Android Jatpack Compose
-- 🌱 I’m currently learning --> Flutter, HTML, CSS, JavaScript
+- 🔭 I’m currently working on --> Flutter, Mobile, C#, .Net,Java Spring
+- 🌱 I’m currently learning --> Flutter, HTML, CSS, JavaScript, C#, .Net
 - 💬 Ask me about --> Kotlin,Flutter
 - 📫 How to reach me: -->hupesat@gmail.com
 - 😄 Pronouns: -->.Her
